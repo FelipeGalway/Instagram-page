@@ -24,6 +24,7 @@ body {
     justify-content: start;
     width: 60%;
     height: 100vh;
+    padding: 10px 10px 110px 180px;
 }
 
 .instagram-phone {
@@ -45,8 +46,9 @@ body {
     align-items: right;
     justify-content: space-around;
     flex-direction: column;
-    width: 32%;
+    width: 40%;
     min-height: 45rem;
+    padding-left: 40px;
 }
 
 .group {
